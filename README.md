@@ -1,2 +1,2 @@
-# sistempakar
-Berisi source code sistem pakar
+# sistempakarMetode CBR
+Berisi source code sistem pakar Metode CBR
